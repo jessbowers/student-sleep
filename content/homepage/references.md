@@ -4,15 +4,11 @@ weight: 7
 header_menu: false
 ---
 
-
-References:
-APA style references
-
-Books: 
+#### Books
 The textbook
 Sleep Smarter 
 
-Academic sources: 
+#### Academic sources
 
 Campbell, R., Soenens, B., Beyers, W., & Vansteenkiste, M. (2018). University students’ sleep during an exam period: the role of basic psychological needs and stress. Motivation & Emotion, 42(5), 671–681. https://doi-org.proxy108.nclive.org/10.1007/s11031-018-9699-x 
 
@@ -25,7 +21,7 @@ Pennypacker, S. D., & Romero, S. E. A. (2020). CBD and THC: Do They Complement E
 
 Robbins, R., & Niederdeppe, J. (2015). Using the Integrative Model of Behavioral Prediction to Identify Promising Message Strategies to Promote Healthy Sleep Behavior Among College Students. Health Communication, 30(1), 26–38. https://doi-org.proxy108.nclive.org/10.1080/10410236.2013.835215
 
-Websites: 
+#### Websites
 
 https://www.cdc.gov/sleep/resources.html 
 

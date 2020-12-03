@@ -1,10 +1,8 @@
 ---
-title: "Sleep"
+title: "Why do we sleep"
 weight: 3
-header_menu: true
+header_menu: false
 ---
-
-## Why do we sleep? 
 
 Did you know that we spend 1/3 of our lives asleep? 
 
