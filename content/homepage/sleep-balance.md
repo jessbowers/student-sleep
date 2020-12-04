@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-![Sleeping on a desk](images/sleep-desk.jpg)
+![Sleeping on a desk](images/sleep-desk.jpeg)
 
 At college, you have so much to do and so little time to do it. You have to attend classes, do homework and study, hang out with friends, eat, and have a job. This barely gives you time to rest or sleep. Many college students find themselves sacrificing their sleep so they have time to do all of these other activities. It's okay if you have difficulty managing all of these responsibilities, you are not alone. 
 
