@@ -1,7 +1,7 @@
 ---
 title: "References"
 weight: 7
-header_menu: false
+header_menu: true
 ---
 
 #### Books

@@ -1,7 +1,7 @@
 ---
 title: "Balancing school and sleep"
 weight: 4
-header_menu: false
+header_menu: true
 ---
 
 ![Sleeping on a desk](images/sleep-desk.jpg)

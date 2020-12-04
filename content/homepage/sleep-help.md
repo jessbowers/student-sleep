@@ -1,7 +1,7 @@
 ---
 title: "Help Sleeping"
 weight: 5
-header_menu: false
+header_menu: true
 ---
 
 ### Things that can help you sleep

@@ -1,7 +1,7 @@
 ---
 title: "Why do we sleep"
 weight: 3
-header_menu: false
+header_menu: true
 ---
 
 Did you know that we spend 1/3 of our lives asleep? 
