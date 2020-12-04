@@ -1,4 +1,4 @@
-baseURL = "https://stella-project-047728.netlify.app"
+baseURL = "https://college-students-guide-to-sleep.netlify.app"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
